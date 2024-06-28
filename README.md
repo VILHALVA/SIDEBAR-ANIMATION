@@ -92,7 +92,7 @@ Este comando irá compilar o aplicativo e instalá-lo no dispositivo ou emulador
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
-- [PROJETO CRIADO PELO "TechieBlossom"](https://github.com/TechieBlossom/sidebar_animation_flutter)
+- [PROJETO CRIADO PELO "TECHIEBLOSSOM"](https://github.com/TechieBlossom/sidebar_animation_flutter)
 - [VEJA O VIDEO DESSE PROJETO](https://youtu.be/oExw0U4U_UI?si=5HQXrK9NoyLlWEUw)
 - [VEJA A PLAYLIST DE PROJETOS](https://youtube.com/playlist?list=PLkGOQPVFMSgybQKLEjAN-mVfDxW4UAiEJ&si=XhhxKcMZwtXtXx2i)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
